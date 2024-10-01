@@ -365,6 +365,9 @@
 
 /* PHONE  */
 @media (min-width: 200px) and (max-width: 575px) {
+    .footer_spacing {
+        padding: 80px 20px 30px;
+    }
     .footer_body {
         display: grid;
         justify-content: flex-start;
